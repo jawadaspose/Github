@@ -1,0 +1,1 @@
+Please download the latest version of Cells (Aspose.Cells for .NET 8.7.1) for .NET from http://www.aspose.com/community/files/51/.net-components/aspose.cells-for-.net/default.aspx
